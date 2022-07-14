@@ -2,13 +2,13 @@
 A Roblox "Experience" about going over [Niagara Falls](https://en.wikipedia.org/wiki/Niagara_Falls#Over_the_falls) in a barrel.
 
 ## Contents
-- [[Marketing]]
-- [[Concept]]
-- [[Gameplay]]
-- [[Gameflow]]
-- [[Art]]
-- [[Technology]]
-- [[Credits]]
+- [Marketing](Marketing.md)
+- [Concept](Concept.md)
+- [Gameplay](Gameplay/Gameplay.md)
+- [Gameflow](Gameflow.md)
+- [Art](Art.md)
+- [Technology](Technology.md)
+- [Credits](Credits.md)
 ---
 
 ## Overview

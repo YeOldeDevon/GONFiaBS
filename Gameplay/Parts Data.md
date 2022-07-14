@@ -2,7 +2,7 @@
 ## What the heck are "Parts"?
 Parts are all the things unique to **Going Over Niagara Falls in a Barrel Simulator**, the barrels themselves, the barrel accessories, powerups, and cosmetics that don't come standard in Roblox but are needed to make this XP work.
 
-[[Assets]]
+[Assets](Assets.md)
 
 ## Barrels
 Barrels will take a certain amount of battering before they break entirely.

@@ -27,4 +27,4 @@ Maybe we can get sponsored by those people who make barrels of pickles.
 Since Roblox is built on microtransactions, I assume our business model will revolve around that in some way. There are a number of powerups, upgrades, and cosmetics listed in the [[Parts Data]] section. These can be unlocked in various ways, or bought outright with Robux.
 Balancing the cost of something in Robux with the effort required to unlock it will require some research.
 
-It's probably worth checking out how [[Robux]] works.
+It's probably worth checking out how [Robux](Roblox/Robux.md) works.

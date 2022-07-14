@@ -13,7 +13,7 @@ The overall idea is very simple:
 5. After all players return to the lobby, the cycle begins again from step 2.
 6. Repeat ad naseaous.
 
-![[Niagara_01.jpg]]
+![Niagara_01.jpg]
 The Goat Island Parking Lot (large center island) is the location of the game lobby.
 The Horseshoe falls (right) is where the players plunge into infamy.
 The American falls (left) are not used, since the fall there has a 100% fatality rate.

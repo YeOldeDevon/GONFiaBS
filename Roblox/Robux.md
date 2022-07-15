@@ -1,5 +1,3 @@
-#external
-
 **Robux** is denoted by the symbol `R$`.
 This symbol is contentious, since it is also used with the [Brazillian real](https://en.wikipedia.org/wiki/Brazilian_real).
 It has been the in-game currency of Roblox since 14 May, 2007.

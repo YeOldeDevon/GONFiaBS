@@ -1,8 +1,8 @@
 # Gameplay
 - [Tutorial](Tutorial.md)
-- [Controls](GONFIAB Controls.md)
-- [PartsData](Parts Data.md)
-- [Maps](GONFIAB Maps.md)
+- [Controls](Controls.md)
+- [PartsData](PartsData.md)
+- [Maps](Maps.md)
 - [Obstacles](Obstacles.md)
 - [AI](AI.md)
 - [Scoring](Scoring.md)
